@@ -1,6 +1,6 @@
 ##Instalação
 
-1-Clone o projeto
+1 - Clone o projeto
 
 2 - Instale as dependências:
 pip install -r requirements.txt
