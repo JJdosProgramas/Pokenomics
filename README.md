@@ -3,7 +3,8 @@
 1 - Clone o projeto
 
 2 - Instale as dependências:
-pip install -r requirements.txt
+pip install customtkinter
+pip install pillow
 
 3 - Execute:
 python main.py
